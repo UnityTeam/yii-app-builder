@@ -1,0 +1,6 @@
+[submodule "share/extensions/YiiMongoDbSuite"]
+	path = share/extensions/YiiMongoDbSuite
+	url = https://github.com/UnityTeam/YiiMongoDbSuite.git
+[submodule "share/extensions/yii-bootstrap"]
+	path = share/extensions/yii-bootstrap
+	url = https://github.com/UnityTeam/yii-bootstrap.git

@@ -1,0 +1,40 @@
+2012/10/11 04:33:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/base/CApplication.php(168): CWebApplication->processRequest()
+#2 /home/eliot/Downloads/UnityTeam/yii-app-builder/Grid13/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/11 04:33:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/base/CApplication.php(168): CWebApplication->processRequest()
+#2 /home/eliot/Downloads/UnityTeam/yii-app-builder/Grid13/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/11 04:33:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/base/CApplication.php(168): CWebApplication->processRequest()
+#2 /home/eliot/Downloads/UnityTeam/yii-app-builder/Grid13/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/11 04:33:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/base/CApplication.php(168): CWebApplication->processRequest()
+#2 /home/eliot/Downloads/UnityTeam/yii-app-builder/Grid13/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2012/10/11 04:33:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/eliot/Downloads/UnityTeam/yii-app-builder/vendor/framework/base/CApplication.php(168): CWebApplication->processRequest()
+#2 /home/eliot/Downloads/UnityTeam/yii-app-builder/Grid13/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
